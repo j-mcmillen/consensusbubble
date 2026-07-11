@@ -1,0 +1,8 @@
+# Agent/meta files — local only, never pushed
+CLAUDE.md
+AGENTS.md
+.claude/
+.agents/
+.scratch/
+skills-lock.json
+docs/agents/
